@@ -1,5 +1,3 @@
 Hello World!
 
 How Are you?
-
-I am well, thank you!
